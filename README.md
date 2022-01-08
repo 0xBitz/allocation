@@ -1,2 +1,2 @@
-# allocation
+# Allocation
 Simple Allocation Script in C.
