@@ -1,2 +1,2 @@
 # allocation
-Simple Allocation Script in Clang.
+Simple Allocation Script in C.
